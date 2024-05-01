@@ -1,0 +1,19 @@
+# Ignore the virtual environment
+venv/
+
+# Byte-compiled / generated Python files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# IDE / Editor directories and files
+.idea/
+.vscode/
+*.swp
